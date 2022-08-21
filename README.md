@@ -3,22 +3,83 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inadurill&label=Profile%20views&color=0e75b6&style=flat" alt="inadurill" /> </p>
 
-- 🌱 I’m currently learning **Qase, Zephyr, Testlink, Mantis**
+## About me
 
-- 🤝 I’m looking for help with **finding my first job as a manual software tester**
+My name is Jakub Krajewski. I am an experienced teacher of English who is willing to take his first steps in the IT world. I would love to join your team. I don't have any commercial experience, but during my learning I have already had the opportunity to conduct some exploratory testing of a number of web pages and report the bugs I found in Jira. I know quite a few tools and I have some tech skills which are necessary for good testing. As for the theory, I know why to test at all, what is the purpose of testing and the principles of testing, what is the difference between functional and non-functional testing, white-box and black-box testing, what is regression testing and what to do when a developer says "but it works for me". I am a highly motivated and open - minded person. I am focused on self - development, learning new tools/ skills and broadening knowledge. Curiosity with the desire to explore, active discovery, attention to detail, professional criticism and a critical eye are some of my assets.  I hope you can give me a chance and I will be able to present myself at an interview.
 
-- 📫 How to reach me **yaqup@tlen.pl**
+## Studies:
+* Academy of Humanities and Economics in Łódź - M. A. in English Studies
+* Centre for Postgraduate Education of the University of Social Sciences - ICT teacher
 
-<h3 align="left">Connect with me:</h3>
+## Finished courses:
+
+* Microsoft SQL Server
+* Learning Jira Software 
+* Introduction to Postman 
+* Manual Software Testing Fundamentals
+* HTML & CSS advanced
+* ISTQB Foundation Exam Prep
+* TestArmy Academy - Akademia Testowania
+
+## Soft skills:
+
+* Ability to work individually and in a team
+* Open - minded and willing to learn/ self - improve
+* High meticulousness and attention to detail
+* Organisation, discipline and dedication
+* Motivation for good/ positive communication & relationships
+
+## Tools (basics):
+
+* Postman 
+* Qase, Zephyr, qTest, TestLink
+* Jira, Asana, Sharepoint, Trello
+* Selenium IDE, Katalon Recorder 
+* Devtools 
+* PickPick, ShareX, Screenpresso
+* GoFullPage
+* BugMagnet, Bird Eats Bug
+
+## Technical skills:
+
+* Theoretical knowledge of testing
+* Agile - Scrum
+* Creating test case scenarios
+* Creating test cases
+* Defect reporting
+* MS SQL Server
+* ISTQB knowledge - still improving
+* Manual testing
+* Using MS Office
+
+## My test case examples:
+
+[Test case examples](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20test%20cases.pdf)
+
+## My defect report example:
+
+[Defect report example](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/example%20defect%20report.jpg)
+
+## My Google Lighthouse test examples: 
+
+[Google lighthouse test - desktop](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/google%20lighthouse%20test%20-%20desktop.jpg)
+
+[Google lighthouse test - mobile](https://github.com/Inadurill/Inadurill.github.io/blob/master/images/google%20lighthouse%20test%20-%20mobile.jpg)
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kuba-krajewski/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuba-krajewski/" height="30" width="40" /></a>
 <a href="https://instagram.com/jakub_origaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakub_origaming" height="30" width="40" /></a>
 <a href="https://www.youtube.com/cubesan1202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cubesan1202" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inadurill&show_icons=true&locale=en" alt="inadurill" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inadurill&" alt="inadurill" /></p>
+
+
+
+
+
+
+
